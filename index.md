@@ -43,7 +43,7 @@ student = {"name": "Alice", "age": 20}
 # Set
 unique_numbers = {1, 2, 3, 4}
 
-
+```
 
 ## Real-Life or Business Use Case
 
