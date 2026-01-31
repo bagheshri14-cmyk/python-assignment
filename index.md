@@ -46,27 +46,54 @@ unique_numbers = {1, 2, 3, 4}
 ---
 
 ## Real-Life or Business Use Case
-- **List**: Track monthly sales data for a product.  
-- **Tuple**: Store coordinates of delivery locations in logistics.  
-- **Dictionary**: Store employee details like name, ID, and salary.  
-- **Set**: Find unique customers from a list of orders or transactions.  
+1. **List**  
+   - Track monthly sales data for a product.
+
+2. **Tuple**  
+   - Store coordinates of delivery locations in logistics.
+
+3. **Dictionary**  
+   - Store employee details like name, ID, and salary.
+
+4. **Set**  
+   - Find unique customers from a list of orders or transactions.
+
+---
 
 ## Advantages
-- **Lists**: Flexible, easy to update, ordered.  
-- **Tuples**: Safe for fixed data, faster than lists.  
-- **Dictionaries**: Fast lookup for key-value data.  
-- **Sets**: Automatically removes duplicates, useful for uniqueness checks.  
+1. **Lists**  
+   - Flexible, easy to update, ordered.
+
+2. **Tuples**  
+   - Safe for fixed data, faster than lists.
+
+3. **Dictionaries**  
+   - Fast lookup for key-value data.
+
+4. **Sets**  
+   - Automatically removes duplicates, useful for uniqueness checks.
+
+---
 
 ## Limitations
-- **Lists**: Searching large lists can be slow.  
-- **Tuples**: Cannot modify items once created.  
-- **Dictionaries**: Uses more memory for large datasets.  
-- **Sets**: Items are unordered, cannot access by index.  
+1. **Lists**  
+   - Searching large lists can be slow.
+
+2. **Tuples**  
+   - Cannot modify items once created.
+
+3. **Dictionaries**  
+   - Uses more memory for large datasets.
+
+4. **Sets**  
+   - Items are unordered, cannot access by index.
+
+---
 
 ## Summary
-Python data structures are essential for organizing data effectively.  
-They simplify coding, reduce errors, and are widely used in real-world business and economic applications.  
+1. Python data structures are essential for organizing data effectively.  
+2. They simplify coding, reduce errors, and are widely used in real-world business and economic applications.  
+3. *Choosing the right data structure improves efficiency and makes programs easier to maintain.*
 
-*Choosing the right data structure improves efficiency and makes programs easier to maintain.*
 
 
