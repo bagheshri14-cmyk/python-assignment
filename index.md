@@ -74,9 +74,9 @@ unique_numbers = {1, 2, 3, 4}
 
 ## Summary
 
-1. Python data structures are essential for organizing data effectively  
-2. They simplify coding, reduce errors, and are widely used in real-world business and economic applications  
-3. *Choosing the right data structure improves efficiency and makes programs easier to maintain*
+1. Python data structures are essential for organizing data effectively.
+2. They simplify coding, reduce errors, and are widely used in real-world business and economic applications.  
+3. *Choosing the right data structure improves efficiency and makes programs easier to maintain*.
 
 
 
